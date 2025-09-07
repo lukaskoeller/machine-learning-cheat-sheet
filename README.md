@@ -80,5 +80,6 @@ print(f1_score(y_true, y_pred))
 ```
 
 ## Glossary
-- **Sigmoid Function**:
-- **Classification Thresholding**:
+- **Sigmoid Function**
+- **Classification Thresholding**
+- **Imbalanced class classification problem**
